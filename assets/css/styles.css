@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+.navbar-brand, h1, h2 {
+    color: #49aaa5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 nav.navbar {
     height: 75px;
     padding: .5rem 2rem;
@@ -10,7 +15,6 @@ nav.navbar {
 
 .navbar-brand {
     /* background-color:  #49aaa5; */
-    font-family: 'Tes New Roimman', Times, serif;
     font-weight: 700;
     font-size: 32px;
     text-decoration-color: #f8cdf8;
@@ -37,8 +41,6 @@ body {
 
 
 h1 {
-    color: #49aaa5;
-    font-family: 'Times New Roman', Times, serif;
     font-weight: 600;
     margin-bottom: 10px;
     border-bottom: 1px solid #c2c0c0;
@@ -54,6 +56,7 @@ main {
     padding: 25px;
     background-color: white;
     float: left;
+    
 }
 
 .container img {
