@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# Net Time Traveler
+# My Webpage
 
-## Project Description 
+## Description 
 
-NetTimeTraveler is an application that allows a user to travel back in time to a specific website archive and retrieves a book that was published in the same year.
+This is my personal website where people can learn about my professional background and some fun facts about me. 
 
 ![Landing Page](assets/image/Screenshot_1.png)
 ![Error Modal](assets/image/Screenshot_2.png)
@@ -41,7 +40,3 @@ As a user when I open the NetTimeTraveler application. I see an input for a sear
 ## License
 
 © Irene Asay. All Rights Reserved. Under the [MIT/](/LICENSE) license.
-=======
-# My Webpage
-Demo ()
->>>>>>> 718d718ef2e46faa94ffd604f91a4dcfdca8073f
